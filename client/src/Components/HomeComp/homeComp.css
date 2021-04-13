@@ -1,0 +1,10 @@
+.shirtsImgDiv {
+    width: 100%;
+    text-align: center;
+}
+
+.shirtsImg {
+    width: 850px;
+    margin-top: 100px;
+    opacity: .8;
+}
