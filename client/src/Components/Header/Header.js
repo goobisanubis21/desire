@@ -1,12 +1,12 @@
 import React from 'react';
-import DesireImg from "./desireHeader.png";
+import AlphaImg from "./alphawaveHeader.png";
 import "./header.css";
 
 function Header() {
     return (
         <div>
             <div className="header">
-                <img src={DesireImg} alt="desiire"></img>
+                <img src={AlphaImg} alt="alphawave"></img>
             </div>
         </div>
     )
