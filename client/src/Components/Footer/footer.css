@@ -1,0 +1,20 @@
+.footerElements {
+    width: 100%;
+    position: fixed;
+    bottom: 0;
+    margin: 0 auto;
+}
+
+.footerList {
+    list-style-type: none;
+    text-align: center;
+}
+
+.footerList li {
+    margin: 20px;
+}
+
+.footerList a {
+    text-decoration: none;
+    color: black;
+}

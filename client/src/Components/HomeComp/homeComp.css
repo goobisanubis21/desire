@@ -5,3 +5,9 @@
     margin-top: 150px;
     font-family: Arial, Helvetica, sans-serif;
 }
+
+@media screen and (max-width: 801px) {
+    .underHeaderText {
+        font-size: 20px;
+    }
+}
