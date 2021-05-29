@@ -1,0 +1,11 @@
+.contactDiv form {
+    width: 100%;
+}
+
+.contactForm input {
+    width: 60%;
+}
+
+.contactForm input {
+    display: block;
+}
