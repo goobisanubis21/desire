@@ -10,6 +10,7 @@ function ContactComp() {
                     <input className="lastNameInput" type="text" placeholder="Last Name"></input>
                     <input className="emailInput" type="email" placeholder="Email"></input>
                     <textarea className="textareaInput" type="text" placeholder="Question/Comments"></textarea>
+                    <button>Send</button>
                 </form>
             </div>
         </div>
