@@ -9,8 +9,8 @@ function Footer() {
                     <a href="/contact"><li>Contact</li></a>
                     <a href="/shipping"><li>Shipping</li></a>
                     <a href="/exchanges"><li>Exchanges & Returns</li></a>
-                    <a href="/privacy"><li>Privacy Policy</li></a>
-                    <a href="/storepolicy"><li>Store Policy</li></a>
+                    <a href="/privacy"><li>Policy</li></a>
+                    {/* <a href="/storepolicy"><li>Store Policy</li></a> */}
                 </div>
             </div>
         </div>
